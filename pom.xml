@@ -8,9 +8,10 @@
 		<version>2.2.0.M3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.soliel.eaportal.encryptor</groupId>
+	<groupId>com.lcrew</groupId>
 	<artifactId>TestSpringBoot_1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>TestSpringBoot_1</name>
 	<description>Test NFL Project</description>
 
